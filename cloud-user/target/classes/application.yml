@@ -1,10 +1,10 @@
 # Server settings
 server:
-   port: 8080
+   port: 8081
 # SPRING PROFILES
 spring:
    application:
-      name: cloud-demo
+      name: cloud-user
    http:
       encoding.charset: UTF-8
       encoding.enable: true
