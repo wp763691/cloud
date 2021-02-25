@@ -1,2 +1,2 @@
-server:
-  port: 3301
+user:
+  server-port: 3301
